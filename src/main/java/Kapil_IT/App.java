@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Webhook Job Demo");
+        System.out.println("KIT Webhook Job Configuration Demo");
     }
     
 }
